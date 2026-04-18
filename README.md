@@ -88,6 +88,13 @@ python gui.py
 
 ---
 
+## 📈 Dataset Note
+
+The current model has been trained using historical crime data from the year 2001 to 2014. This dataset has been used to analyze past crime trends and build the prediction model.
+
+In future enhancements, the system will incorporate more recent and updated datasets to retrain the model. This will help improve the accuracy, reliability, and effectiveness of crime risk predictions, making the system more suitable for real-world applications.
+
+
 ## 👩‍💻 Authors 
 
 * Kaustubhi Dutta
