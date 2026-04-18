@@ -1,0 +1,94 @@
+# Crime Prediction Using Machine Learning
+
+## 📌 Project Overview
+
+This project is a machine learning-based system designed to predict crime risk levels (Low, Medium, High) for different states. It analyzes factors such as police strength and number of arrests to assist in crime prevention and decision-making.
+
+---
+
+## ⚙️ Features
+
+* Crime risk prediction (Low / Medium / High)
+* Crime count estimation
+* Explanation of prediction
+* Preventive recommendations
+
+---
+
+## 🧠 Model Used
+
+* Random Forest Classifier
+
+---
+
+## 📊 Dataset
+
+The model is trained on crime-related datasets including:
+
+* Police strength data
+* Number of arrests
+* Historical crime records
+
+📥 Dataset Link:
+https://drive.google.com/drive/folders/1_YEVSdQsTMKo3koiFfpXwVslecr2-Fji?usp=drive_link
+
+---
+
+## 🤖 Trained Model
+
+Due to GitHub file size limitations, the trained model is hosted externally:
+
+📥 Model Download Link:
+https://drive.google.com/file/d/14PzfQa7bQ3ITbbvjo6ORv07kYQRIi0_q/view?usp=drive_link
+
+---
+
+## 🖥️ How to Run the Project
+
+1. Clone the repository:
+
+```
+git clone https://github.com/KaustubhiDutta/Crime-Prevention-System-using-Machine-Learning.git
+```
+
+2. Install required libraries:
+
+```
+pip install pandas numpy scikit-learn
+```
+
+3. Run the application:
+
+```
+python app.py
+```
+
+or
+
+```
+python gui.py
+```
+
+---
+
+## 📌 Tech Stack
+
+* Python
+* Machine Learning (Scikit-learn)
+* Pandas, NumPy
+* Tkinter (GUI)
+
+---
+
+## 🎯 Future Scope
+
+* Integration with real-time data
+* Web-based deployment
+* Inclusion of more features (population, literacy rate, etc.)
+
+---
+
+## 👩‍💻 Authors 
+
+* Kaustubhi Dutta
+* Kajal Mishra
