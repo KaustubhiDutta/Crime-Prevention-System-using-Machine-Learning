@@ -30,7 +30,7 @@ The model is trained on crime-related datasets including:
 * Historical crime records
 
 📥 Dataset Link:
-https://drive.google.com/drive/folders/1_YEVSdQsTMKo3koiFfpXwVslecr2-Fji?usp=drive_link
+https://drive.google.com/drive/folders/1_YEVSdQsTMKo3koiFfpXwVslecr2-Fji?usp=sharing
 
 ---
 
@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1_YEVSdQsTMKo3koiFfpXwVslecr2-Fji?usp=dri
 Due to GitHub file size limitations, the trained model is hosted externally:
 
 📥 Model Download Link:
-https://drive.google.com/file/d/14PzfQa7bQ3ITbbvjo6ORv07kYQRIi0_q/view?usp=drive_link
+https://drive.google.com/file/d/1pCFviWRiz6Z80Pud6Z-GRF7gDrHC2o9I/view?usp=sharing
 
 ---
 
