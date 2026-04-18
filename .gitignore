@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
+*.zip
+*.csv
+*.xlsx
+.virtual_documents/
+.vscode/
